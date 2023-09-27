@@ -1,0 +1,43 @@
+Act 1
+1) d
+2) d
+3) c
+4) a
+5) c
+
+Act 2
+1) 	Tabla Casa / Tabla Usuario
+	a. id_casa / id_usuario
+	b. ------- / id_casa
+	c. calle   / nombre
+	d.  calle  / nombre
+	numeracion / apellido
+	 es_depto  /
+	e. la fila con los datos
+2) ------
+3) d
+
+Act 3
+1) V
+2) F 
+para la relacion de muchos a muchos 
+hace falta usar la tabla intermedia, asi 
+que realmente no se relacionan las tablas
+de muchos a muchos
+3) creo que F porque creo que lo dorado 
+es para la primary key
+4) F 
+hay 6 tipos
+0/1 - * - 1 - 1y1 - 0/* - 1/*
+
+Act 4
+2.1) c. 2 columnas
+  2) a. 6 cols numericas
+  3) b. 1 columna (ocupacion)
+  4) c
+
+
+
+Act 7
+SELECT * FROM personajes ORDER BY inteligencia;
+ 
